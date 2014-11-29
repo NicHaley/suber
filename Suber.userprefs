@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TextTimer.js">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyAI.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextTimer.js" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/Shooting.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SubControl.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OrbBehaviour.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HUDLabels.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAI.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
